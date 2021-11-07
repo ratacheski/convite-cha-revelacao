@@ -17,7 +17,7 @@ export default {
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/convite-cha-revelacao/favicon.ico' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -89,7 +89,8 @@ export default {
       'willian_%26_família',
       'daniel_almeida',
       'titia_chris',
-      'titia_roberta'
+      'titia_roberta',
+      'júnior'
     ],
   },
 }
