@@ -13,8 +13,9 @@ export default {
     },
     meta: [
       { charset: 'utf-8' },
+      { property: 'og:image', content: '/convite-cha-revelacao/convite.jpeg'},
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Alice ou Miguel?' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/convite-cha-revelacao/favicon.ico' }],
