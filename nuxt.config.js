@@ -46,4 +46,10 @@ export default {
   router: {
     base: '/convite-cha-revelacao/',
   },
+
+  generate: {
+    routes: [
+      '/neusa_raulino'
+    ]
+  }
 }
