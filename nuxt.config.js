@@ -13,12 +13,30 @@ export default {
     },
     meta: [
       { charset: 'utf-8' },
-      { property: 'og:image', content: '/convite-cha-revelacao/convite.jpeg'},
+      {
+        property: 'og:image',
+        itemprop: 'image',
+        content: '/convite-cha-revelacao/convite.jpeg',
+      },
+      {
+        property: 'og:site_name',
+        content: 'Convite Chá Revelação',
+      },
+      {
+        property: 'og:type',
+        content: 'website',
+      },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Alice ou Miguel?' },
       { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/convite-cha-revelacao/favicon.ico' }],
+    link: [
+      {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/convite-cha-revelacao/favicon.ico',
+      },
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -91,7 +109,7 @@ export default {
       'daniel_almeida',
       'titia_chris',
       'titia_roberta',
-      'júnior'
+      'júnior',
     ],
   },
 }

@@ -87,22 +87,6 @@ export default {
     }
     return { convidado: sentence.join(' ') }
   },
-  head() {
-    return {
-      title: 'Convite Chá Revelação',
-      meta: [
-        {
-          hid: 'description',
-          name: 'description',
-          content: this.convidado + '. Será Alice ou Miguel?',
-        },
-        {
-          property: 'og:image',
-          content: '/convite-cha-revelacao/convite.jpeg',
-        },
-      ],
-    }
-  },
 }
 </script>
 
