@@ -19,7 +19,7 @@
           Será Alice ou Miguel?
         </span>
         <span class="col-span-10 col-start-2 text-pink-100">
-          Para serem recebidos com as pompas que merecem confirme sua presença
+          Para ser recebido com as pompas que merece confirme sua presença
           até o dia 26/11 no botão abaixo.
         </span>
         <img
