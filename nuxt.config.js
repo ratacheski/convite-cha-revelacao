@@ -63,7 +63,7 @@ export default {
   build: {},
 
   router: {
-    base: '/convite-cha-revelacao/',
+    base: '/',
   },
 
   generate: {
