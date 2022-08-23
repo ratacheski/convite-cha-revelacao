@@ -3,7 +3,7 @@
     <div class="grid grid-cols-12 h-auto py-4 items-center">
       <img
         class="col-span-12 lg:col-span-8 lg:col-start-3"
-        src="/convite-cha-revelacao/logo.png"
+        src="/logo.png"
         alt="Miguel ou Alice"
       />
       <a
@@ -11,7 +11,7 @@
         href="https://meet.google.com/anw-swie-hmy"
         target="_blank"
       >
-        <img class="links" src="/convite-cha-revelacao/live.png" alt="Link da live" />
+        <img class="links" src="/live.png" alt="Link da live" />
       </a>
     </div>
   </div>

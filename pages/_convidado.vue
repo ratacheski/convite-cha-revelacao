@@ -4,7 +4,7 @@
       <div class="grid grid-cols-12 h-auto py-4 items-center">
         <img
           class="col-span-12 lg:col-span-8 lg:col-start-3"
-          src="/convite-cha-revelacao/logo.png"
+          src="/logo.png"
           alt="Miguel ou Alice"
         />
         <span class="col-span-12 text-pink-100"> Olá, {{ convidado }}! </span>
@@ -24,7 +24,7 @@
         </span>
         <img
           class="col-span-12 mt-3 lg:col-span-4 lg:col-start-5"
-          src="/convite-cha-revelacao/data.png"
+          src="/data.png"
           alt="Data do chá"
         />
         <span class="col-span-10 col-start-2 text-pink-100">
@@ -47,7 +47,7 @@
           >
             <img
               class="links"
-              src="/convite-cha-revelacao/confirmacao.png"
+              src="/confirmacao.png"
               alt="Confirmação"
             />
           </a>
@@ -57,7 +57,7 @@
           <a href="https://meet.google.com/anw-swie-hmy" target="_blank">
             <img
               class="links"
-              src="/convite-cha-revelacao/live.png"
+              src="/live.png"
               alt="Link da live"
             />
           </a>
@@ -67,7 +67,7 @@
           <a href="https://goo.gl/maps/E6g8WNstKo1SU9fW6" target="_blank">
             <img
               class="links"
-              src="/convite-cha-revelacao/localizacao.png"
+              src="/localizacao.png"
               alt="Localização"
             />
           </a>
